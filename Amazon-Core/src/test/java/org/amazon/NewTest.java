@@ -13,5 +13,5 @@ public class NewTest {
         {
             assertTrue( true );
         }
-
+System.out.println("Odd count is ::");
 }
